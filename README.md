@@ -28,7 +28,7 @@ retail-sales-analysis/
 ├── retail_sales_analysis.xls              # Excel analysis file
 ├── retail_sales_cleaned.xls               # Cleaned dataset
 ├── retail_sales_messy.csv                 # Original raw dataset 
-├── Retail_Sales_Findings_Report.docx      # Report with findings
+├── Retail_Sales_Findings_Report.pdf      # Report with findings
 └── README.md
 ```
  
