@@ -140,3 +140,4 @@ The dataset was synthetically generated to simulate a realistic messy retail env
 
 **Tendai**
 [https://www.linkedin.com/in/tendai-teremuka-235693273/]
+The project is not perfect because I am still learning.
