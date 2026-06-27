@@ -25,10 +25,12 @@ retail-sales-analysis/
 │   ├── [retail_sales_visualizations.pbit]             # Power BI dashboard file
 │   └── [Dashboard screenshots]            # Screenshots of each dashboard page
 │
+├── Reports/
+│   ├── [Retail_Sales_Technical_Report.pdf]             # Technical project report
+│   └── [Retail_Sales_Client_Report.pdf]            # Client report with findings
 ├── retail_sales_analysis.xls              # Excel analysis file
 ├── retail_sales_cleaned.xls               # Cleaned dataset
 ├── retail_sales_messy.csv                 # Original raw dataset 
-├── Retail_Sales_Findings_Report.pdf      # Report with findings
 └── README.md
 ```
  
@@ -106,7 +108,7 @@ The dashboard is structured across **2 pages**:
 
 ## 🔍 Key Findings
 
-> See the full `Retail_Sales_Findings_Report.docx` for detailed findings.
+> See the full `Retail_Sales_Technical_Report.pdf` for detailed findings.
 
 - **Sports** was the best-performing product category
 - **Eastern Cape** generated the most revenue across all cities
