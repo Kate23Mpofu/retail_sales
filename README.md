@@ -1,4 +1,6 @@
-![Power BI](sales_overview.png)
+![Dashboard](https://github.com/Kate23Mpofu/retail_sales/blob/main/Power%20BI/sales_overview.png)
+
+---
 
 # 🛒 Retail Sales Data Analysis
 
