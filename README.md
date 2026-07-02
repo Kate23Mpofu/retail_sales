@@ -1,3 +1,5 @@
+![Power BI](sales_overview.png)
+
 # 🛒 Retail Sales Data Analysis
 
 A full end-to-end data analysis project covering data cleaning and interactive Power BI dashboards, built on a synthetic retail sales dataset of 76,500 rows.
