@@ -122,6 +122,13 @@ The dashboard is structured across **2 pages**:
 
 ---
 
+## Dashboard Preview
+
+| Sales Overview | Customers And Operations |
+|---|---|
+| ![Sales Overview](Power%20BI/sales_overview.png) | ![Customers And Operations](Power%20BI/customers_and_operations.png) |
+---
+
 ## 🛠️ Tools Used
 
 | Tool | Purpose |
